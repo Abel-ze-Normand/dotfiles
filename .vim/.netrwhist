@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/abelnormand/.vim'
+let g:netrw_dirhist_2='/Users/abelnormand/.shoes/+gem/gems/chunky_png-1.3.4/lib/chunky_png/canvas'
+let g:netrw_dirhist_3='/private/etc/apache2'
+let g:netrw_dirhist_4='/Users/abelnormand/Desktop/microblog'
